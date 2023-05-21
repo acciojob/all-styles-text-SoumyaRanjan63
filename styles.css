@@ -1,15 +1,16 @@
 
 /* Your CSS Code here. */
 .main {
-    width: 200px;
-    background-color: rgb(128,0,128);
+/*     width: 250px; */
+	border-left:5px solid green;
+/*     background-color: green; */
 	
    
 }
 .heading {
     width: 200px;
-    background-color: green;
-    margin:5px ;
+    background-color: rgb(128,0,128);
+/*     margin:5px ; */
     color: white;
     font-size: 20px;
     text-decoration: underline;
