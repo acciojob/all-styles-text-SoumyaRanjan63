@@ -2,12 +2,13 @@
 /* Your CSS Code here. */
 .main {
     width: 200px;
-    background-color: green;
+    background-color: rgb(128,0,128);
+	
    
 }
 .heading {
     width: 200px;
-    background-color: rgb(128,0,128);
+    background-color: green;
     margin:5px ;
     color: white;
     font-size: 20px;
