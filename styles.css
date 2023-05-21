@@ -2,14 +2,14 @@
 /* Your CSS Code here. */
 .main {
     width: 200px;
-	border-left:5px solid green;
+	border-left:5px solid rgb(128,0,128);
 /*     background-color: green; */
 	
    
 }
 .heading {
     width: 200px;
-    background-color: rgb(128,0,128);
+    background-color: green ;
 /*     margin:5px ; */
     color: white;
     font-size: 20px;
